@@ -2,24 +2,8 @@
 
 🚧 This page is under construction 🚧
 
-- 🔭 I’m currently working on [Bottlerocket](https://aws.amazon.com/bottlerocket)
-  and other [container](https://aws.amazon.com/fargate)
-  [infrastructure](https://github.com/firecracker-microvm/firecracker-containerd)
+- 🔭 I’m currently working on other [container](https://aws.amazon.com/fargate)
+  [infrastructure](https://aws.amazon.com/ecs)
   at Amazon Web Services
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🌱 I’m not currently learning [Rust](https://www.rust-lang.org/)
 - 😄 Pronouns: [he/him](https://pronoun.is/he/him)
-
-<!--
-**samuelkarp/samuelkarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
